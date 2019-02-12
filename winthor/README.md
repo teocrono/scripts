@@ -9,3 +9,6 @@ para compilar "python setup.py build"
 
 #ion
 loga no site do ion e mostra uma lista dos ultimos rca's que conectaram no ion
+
+#consultapreco
+programa criado para usar na loja em um consulta preço que usa windows ce
