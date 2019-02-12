@@ -1,0 +1,2 @@
+python setup.py bdist_msi >> cria um instalador
+python setup.py build >> cria uma pasta com o exe
