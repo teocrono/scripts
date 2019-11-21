@@ -1,2 +1,2 @@
 # scripts
-scripts diversos que crio para resolver pequenos problemas
+scripts diversos que criei para resolver pequenos problemas
